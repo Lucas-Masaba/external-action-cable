@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Connect To Action Cable From External Applications | Ruby On Rails 7 Websockets
+- Run `bundle install` to install all the packages
+- Run `rails s` to get it up and running
+- [Here](https://github.com/Lucas-Masaba/external-action-cable-client) is a link to the vanilla typescript project to connect
